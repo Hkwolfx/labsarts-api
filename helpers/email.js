@@ -67,7 +67,7 @@ exports.linkPublishedParams = (email, data) => {
                     Charset: 'UTF-8',
                     Data: `
                         <html>
-                            <h1>New link published | reactnodeaws.com</h1>
+                            <h1>New link published | labs-arts.com</h1>
                             <p>A new link titled <b>${
                                 data.title
                             }</b> has been just publihsed in the following categories.</p>
